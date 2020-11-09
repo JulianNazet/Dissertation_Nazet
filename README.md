@@ -1,2 +1,2 @@
 # Dissertation_Nazet
-Electronic Supplement
+Digital Supplement
